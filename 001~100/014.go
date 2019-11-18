@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/longest-common-prefix/
+// URL : https://leetcode.com/problems/longest-common-prefix/
 //0 ms	2.4 MB
 package main
 import "fmt"

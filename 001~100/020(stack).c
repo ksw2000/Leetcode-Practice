@@ -30,7 +30,7 @@ int getToken(char c){
         case '}':
             return -3;
     }
-    return;
+    return 0;
 }
 
 void push(stack** s, int val){

@@ -1,9 +1,7 @@
 // URL : https://leetcode.com/problems/merge-two-sorted-lists/
 // 0 ms	2.6 MB
 package main
-import (
-    "fmt"
-)
+import "fmt"
 
 type ListNode struct {
     Val int
@@ -78,7 +76,6 @@ func main(){
 
     tmp:=mergeTwoLists(head_l1, head_l2)
     for current:=tmp; current!=nil; current=(*current).Next{
-        fmt.Print((*current).Val)
-        fmt.Print(" ")
+        fmt.Printf("%d ",(*current).Val)
     }
 }

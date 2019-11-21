@@ -6,6 +6,7 @@ import(
     "os"
 )
 
+//----------------------------------- Answer Begin -----------------------------------//
 type stack struct{
     token int
     next *stack
@@ -67,6 +68,7 @@ func isValid(s string) bool {
     }
     return false
 }
+//----------------------------------- Answer END -----------------------------------//
 
 func main(){
     s:="()"

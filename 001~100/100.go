@@ -19,9 +19,9 @@ func pushTree(val int, root **TreeNode){
     var tmp *TreeNode = new(TreeNode)
     tmp.Val=val
 
-    var current *TreeNode
-    var previous *TreeNode
-    previous = *root;
+    var current,previous *TreeNode
+    previous = *root
+
     for current = *root; current != nil; {
         if current.Val > val{
             previous = current

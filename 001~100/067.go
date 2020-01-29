@@ -3,6 +3,7 @@
 package main
 import "fmt"
 
+//----------------------------------- Answer Begin -----------------------------------//
 func cti(a byte) int{
     return int(a)-48
 }
@@ -42,6 +43,7 @@ func addBinary(a string, b string) string {
 
     return answer
 }
+//----------------------------------- Answer END -----------------------------------//
 
 func main(){
     fmt.Println(addBinary("",""))

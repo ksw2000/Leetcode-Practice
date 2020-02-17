@@ -1,5 +1,5 @@
-// 0 ms	2.4 MB
 // URL : https://leetcode.com/problems/multiply-strings/
+// 0 ms	2.4 MB
 package main
 import "fmt"
 

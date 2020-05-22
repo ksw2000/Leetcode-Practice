@@ -1,5 +1,4 @@
-// By brute force
-// URL : https://leetcode.com/problems/two-sum/
+// https://leetcode.com/problems/two-sum/
 // 140 ms 7.7 MB
 #include<stdio.h>
 #include<stdlib.h>

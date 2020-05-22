@@ -1,4 +1,4 @@
-// URL : https://leetcode.com/problems/two-sum/
+// https://leetcode.com/problems/two-sum/
 // 4 ms 6.8 MB
 #include<stdio.h>
 #include<stdlib.h>

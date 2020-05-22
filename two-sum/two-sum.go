@@ -1,4 +1,4 @@
-// URL : https://leetcode.com/problems/two-sum/
+// https://leetcode.com/problems/two-sum/
 // 4 ms	3.8 MB
 package main
 import "fmt"

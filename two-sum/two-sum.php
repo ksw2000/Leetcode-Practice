@@ -1,5 +1,5 @@
 <?php
-// URL : https://leetcode.com/problems/two-sum/
+// https://leetcode.com/problems/two-sum/
 // 8 ms	15.9 MB
 
 class Solution {

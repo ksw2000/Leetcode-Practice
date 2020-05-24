@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/add-two-numbers/submissions/
+// https://leetcode.com/problems/add-two-numbers/
 // 8 ms	7.5 MB
 #include<stdio.h>
 #include<stdlib.h>

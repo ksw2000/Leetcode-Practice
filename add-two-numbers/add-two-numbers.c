@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/add-two-numbers/submissions/
+// https://leetcode.com/problems/add-two-numbers/
 // 12 ms 6.9 MB
 
 #include<stdio.h>
@@ -19,40 +19,39 @@ struct ListNode{
 
 //----------------------------------- Answer Begin -----------------------------------//
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
-    struct ListNode *cur1, *cur2, *pre;
+    struct ListNode *pre;
+    struct ListNode *root;
+    root = l1;
     int carry = 0;
     int sum;
-    for(cur1 = l1, cur2 = l2; cur1 && cur2; cur1 = cur1->next, cur2 = cur2->next){
-        sum       = cur1->val + cur2->val + carry;
-        carry     = sum / 10;
-        cur1->val = sum % 10;
-        pre       = cur1;
+    for(;l1 && l2; l1 = l1->next, l2 = l2->next){
+        sum     = l1->val + l2->val + carry;
+        carry   = sum / 10;
+        l1->val = sum % 10;
+        pre     = l1;
     }
 
-    for(; cur1; cur1 = cur1->next){
-        sum       = cur1->val + carry;
-        carry     = sum / 10;
-        cur1->val = sum % 10;
-        pre       = cur1;
+    //l2 is too long
+    if(l2){
+        pre->next = l2;
+        l1        = pre->next;
     }
 
-    for(; cur2; cur2 = cur2->next){
-        struct ListNode* new = malloc(sizeof(*new));
-        sum       = cur2->val + carry;
-        carry     = sum / 10;
-        new->val  = sum % 10;
-        new->next = NULL;
-        pre->next = new;
-        pre = new;
+    //l1 is too long
+    for(; l1; l1 = l1->next){
+        sum     = l1->val + carry;
+        carry   = sum / 10;
+        l1->val = sum % 10;
+        pre     = l1;
     }
 
     if(carry > 0){
         struct ListNode* new = malloc(sizeof(*new));
-        new->val = carry;
+        new->val  = carry;
         new->next = NULL;
         pre->next = new;
     }
-    return l1;
+    return root;
 }
 //----------------------------------- Answer END -----------------------------------//
 

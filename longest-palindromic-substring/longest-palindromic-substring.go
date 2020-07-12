@@ -1,5 +1,5 @@
-// URL : https://leetcode.com/problems/longest-palindromic-substring/submissions/
-// 8 ms	2.8 MB
+// URL : https://leetcode.com/problems/longest-palindromic-substring/
+// 8 ms 2.8 MB
 package main
 import "fmt"
 

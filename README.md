@@ -1,13 +1,14 @@
 # LeetCode Practice
 
-最近在重新整理結構，預計以後每道題目都會用 5 種程式語言先解一遍
+最近在重新整理結構
 
-Go, C, JS, PHP, Java
-
-後面標記版本號越大，越佳
-
-
-|NO  | Question       | Go   | JS   | C    | PHP | Java |
-|:--:| :--------------| :--: | :--: | :--: | :--:| :--: |
-|001 | [two-sum](/two-sum) |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-|002 | [add-two-numbers](/add-two-numbers)|:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
+| #   | Question                                                                                         |                                                                                                                                                                              |
+|:---:|:------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 001 | [two-sum](./two-sum)                                                                             | [GO](./two-sum/two-sum.go), [C](./two-sum/two-sum.c), [JS](./two-sum/two-sum.js), [PHP](./two-sum/two-sum.php), [Rust](./two-sum/two-sum.rs), [Java](./two-sum/two-sum.java) |
+| 002 | [add-two-numbers](./add-two-numbers)                                                             | [GO](./add-two-numbers/add-two-numbers.go), [C](./add-two-numbers/add-two-numbers.c), [JS](./add-two-numbers/add-two-numbers.js)                                             |
+| 003 | [longest-substring-without-repeating-characters](longest-substring-without-repeating-characters) | [GO](./longest-substring-without-repeating-characters.go)                                                                                                                    |
+| 004 | [median-of-two-sorted-arrays](./median-of-two-sorted-arrays)                                     | [GO](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.go)                                                                                                           |
+| 005 | [longest-palindromic-substring](./longest-palindromic-substring)                                 | [GO](./longest-palindromic-substring/longest-palindromic-substring.go)                                                                                                       |
+| 006 | [zigzag-conversion](./zigzag-conversion)                                                         | [GO](./zigzag-conversion/zigzag-conversion.go)                                                                                                                               |
+| 007 | [reverse-integer](./reverse-integer)                                                             | [GO](./reverse-integer/reverse-integer.go), [JS](./reverse-integer/reverse-integer.js)                                                                                       |
+| 008 | [string-to-integer-atoi](./string-to-integer-atoi)                                               | [GO](./string-to-integer-atoi/string-to-integer-atoi.go)                                                                                                                     |

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/two-sum/
-// 0 ms	2.4 MB
+// 0 ms 2.4 MB
 use std::collections::HashMap;
 
 struct Solution{}

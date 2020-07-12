@@ -1,5 +1,5 @@
 // URL : https://leetcode.com/problems/string-to-integer-atoi/
-//0 ms	2.3 MB
+// 0 ms 2.3 MB
 package main
 import "fmt"
 

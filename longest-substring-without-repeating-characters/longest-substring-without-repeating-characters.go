@@ -1,5 +1,5 @@
 // URL : https://leetcode.com/problems/longest-substring-without-repeating-characters/
-// 8 ms	3.1 MB
+// 8 ms 3.1 MB
 // Dynamic Programming
 package main
 import "fmt"

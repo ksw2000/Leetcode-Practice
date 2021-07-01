@@ -1,7 +1,5 @@
 # LeetCode Practice
 
-最近在重新整理結構
-
 | #   | Question                                                                                         |                                                                                                                                                                              |
 |:---:|:------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 001 | [two-sum](./two-sum)                                                                             | [GO](./two-sum/two-sum.go), [C](./two-sum/two-sum.c), [JS](./two-sum/two-sum.js), [PHP](./two-sum/two-sum.php), [Rust](./two-sum/two-sum.rs), [Java](./two-sum/two-sum.java) |
@@ -12,3 +10,5 @@
 | 006 | [zigzag-conversion](./zigzag-conversion)                                                         | [GO](./zigzag-conversion/zigzag-conversion.go)                                                                                                                               |
 | 007 | [reverse-integer](./reverse-integer)                                                             | [GO](./reverse-integer/reverse-integer.go), [JS](./reverse-integer/reverse-integer.js)                                                                                       |
 | 008 | [string-to-integer-atoi](./string-to-integer-atoi)                                               | [GO](./string-to-integer-atoi/string-to-integer-atoi.go)                                                                                                                     |
+| 009 | [palindrome-number](./palindrome-number)                                               | [GO](./alindrome-number/palindrome-number.go), [C](./alindrome-number/palindrome-number.c)                                                                                                                     |
+| 011 | [container-with-most-water](./container-with-most-water) | [GO](./container-with-most-water.go)

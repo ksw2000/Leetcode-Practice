@@ -11,5 +11,6 @@
 | 007 | [reverse-integer](https://leetcode.com/problems/reverse-integer)                                                             | [GO](./reverse-integer/reverse-integer.go), [JS](./reverse-integer/reverse-integer.js)                                                                                       |
 | 008 | [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)                                               | [GO](./string-to-integer-atoi/string-to-integer-atoi.go)                                                                                                                     |
 | 009 | [palindrome-number](https://leetcode.com/problems/palindrome-number)                                               | [GO](./palindrome-number/palindrome-number.go), [C](./palindrome-number/palindrome-number.c)                                                                                                                     |
-| 011 | [container-with-most-water](./container-with-most-water) | [GO](./container-with-most-water/container-with-most-water.go)
+| 011 | [container-with-most-water](./container-with-most-water) | [GO](./container-with-most-water/container-with-most-water.go)|
+| 018 | [4sum](https://leetcode.com/problems/4sum/) | [Go](./4Sum/4Sum.go)
 | 038 | [cont-and-say](https://leetcode.com/problems/count-and-say/) | [GO](./count-and-say/count-and-say.go)

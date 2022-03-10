@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/rotate-list/
+// 2 ms 2.6 MB
+
 package main
 
 type ListNode struct {

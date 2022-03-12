@@ -1,16 +1,29 @@
 # LeetCode Practice
 
-| #   | Question                                                                                         |                                                                                                                                                                              |
-|:---:|:------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 001 | [two-sum](https://leetcode.com/problems/two-sum)                                                                             | [GO](./two-sum/two-sum.go), [C](./two-sum/two-sum.c), [JS](./two-sum/two-sum.js), [PHP](./two-sum/two-sum.php), [Rust](./two-sum/two-sum.rs), [Java](./two-sum/two-sum.java) |
-| 002 | [add-two-numbers](https://leetcode.com/problems/add-two-numbers)                                                             | [GO](./add-two-numbers/add-two-numbers.go), [C](./add-two-numbers/add-two-numbers.c), [JS](./add-two-numbers/add-two-numbers.js)                                             |
-| 003 | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [GO](./longest-substring-without-repeating-characters.go)                                                                                                                    |
-| 004 | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)                                     | [GO](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.go)                                                                                                           |
-| 005 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)                                 | [GO](./longest-palindromic-substring/longest-palindromic-substring.go)                                                                                                       |
-| 006 | [zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)                                                         | [GO](./zigzag-conversion/zigzag-conversion.go)                                                                                                                               |
-| 007 | [reverse-integer](https://leetcode.com/problems/reverse-integer)                                                             | [GO](./reverse-integer/reverse-integer.go), [JS](./reverse-integer/reverse-integer.js)                                                                                       |
-| 008 | [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)                                               | [GO](./string-to-integer-atoi/string-to-integer-atoi.go)                                                                                                                     |
-| 009 | [palindrome-number](https://leetcode.com/problems/palindrome-number)                                               | [GO](./palindrome-number/palindrome-number.go), [C](./palindrome-number/palindrome-number.c)                                                                                                                     |
-| 011 | [container-with-most-water](./container-with-most-water) | [GO](./container-with-most-water/container-with-most-water.go)|
-| 018 | [4sum](https://leetcode.com/problems/4sum/) | [Go](./4Sum/4Sum.go)
-| 038 | [cont-and-say](https://leetcode.com/problems/count-and-say/) | [GO](./count-and-say/count-and-say.go)
+|  #   | Question                                                     |                                                              |
+| :--: | :----------------------------------------------------------- | ------------------------------------------------------------ |
+| 001  | [two-sum](https://leetcode.com/problems/two-sum)             | [Go](./two-sum/two-sum.go), [C](./two-sum/two-sum.c), [JS](./two-sum/two-sum.js), [PHP](./two-sum/two-sum.php), [Rust](./two-sum/two-sum.rs), [Java](./two-sum/two-sum.java) |
+| 002  | [add-two-numbers](https://leetcode.com/problems/add-two-numbers) | [Go](./add-two-numbers/add-two-numbers.go), [C](./add-two-numbers/add-two-numbers.c), [JS](./add-two-numbers/add-two-numbers.js) |
+| 003  | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Go](./longest-substring-without-repeating-characters.go)    |
+| 004  | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Go](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.go) |
+| 005  | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring) | [Go](./longest-palindromic-substring/longest-palindromic-substring.go) |
+| 006  | [zigzag-conversion](https://leetcode.com/problems/zigzag-conversion) | [Go](./zigzag-conversion/zigzag-conversion.go)               |
+| 007  | [reverse-integer](https://leetcode.com/problems/reverse-integer) | [Go](./reverse-integer/reverse-integer.go), [JS](./reverse-integer/reverse-integer.js) |
+| 008  | [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi) | [Go](./string-to-integer-atoi/string-to-integer-atoi.go)     |
+| 009  | [palindrome-number](https://leetcode.com/problems/palindrome-number) | [Go](./palindrome-number/palindrome-number.go), [C](./palindrome-number/palindrome-number.c) |
+| 010 | [regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/) | [Go](./regular-expression-matching/regular-expression-matching.go) |
+| 011  | [container-with-most-water](./container-with-most-water)     | [Go](./container-with-most-water/container-with-most-water.go) |
+| 012 | [integer-to-roman](https://leetcode.com/problems/integer-to-roman) | [Go](integer-to-roman) |
+| 013 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer) |[Go](./roman-to-integer/roman-to-integer.go) |
+| 014 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) | [Go](./longest-common-prefix/longest-common-prefix.go)
+| 018  | [4sum](https://leetcode.com/problems/4sum/)                  | [Go](./4Sum/4Sum.go)                                         |
+| 037 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | [Go](./sudoku-solver/sudoku-solver.go) |
+| 038  | [count-and-say](https://leetcode.com/problems/count-and-say/) | [Go](./count-and-say/count-and-say.go)                       |
+| 061 |[rotate-list](https://leetcode.com/problems/rotate-list/) | [Go](./rotate-list/rotate-list.go)|
+| 082 |[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](./remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.go)|
+| 141 |[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./linked-list-cycle/linked-list-cycle.go) |
+| 148  | [sort-list](https://leetcode.com/problems/sort-list/)        | [Go](./sort-list/sort-list.go)                               |
+| 165 | [compare-version-numbers](https://leetcode.com/problems/compare-version-numbers/) | [Go](./compare-version-numbers/compare-version-numbers.go) |
+| 338  | [counting-bits](https://leetcode.com/problems/counting-bits/) | [Go](./counting-bits/counting-bits.go), [C](./counting-bits/counting-bits.c) |
+| 392 | [is-subsequence](https://leetcode.com/problems/is-subsequence/)|[Go](./is-subsequence/is-subsequence.go)|
+| 413 |[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/) | [Go](./arithmetic-slices/arithmetic-slices.go)|

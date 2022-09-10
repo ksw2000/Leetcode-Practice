@@ -38,5 +38,6 @@ https://leetcode.com/
 | 413 |[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/) | [Go](./arithmetic-slices/arithmetic-slices.go)|
 | 622 | [design-circular-queue](https://leetcode.com/problems/design-circular-queue/)|[Go](./design-circular-queue/design-circular-queue.go)|
 | 948 | [bag-of-tokens](https://leetcode.com/problems/bag-of-tokens/) | [Go](./bag-of-tokens/bag-of-tokens.go)|
+| 990 | [satisfiability-of-equality-equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Go](./satisfiability-of-equality-equations/satisfiability-of-equality-equations.go) |
 |1337| [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Go](./the-k-weakest-rows-in-a-matrix/the-k-weakest-rows-in-a-matrix.go) |
 |1680| [concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Go](./concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.go), [C](./concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.c)|

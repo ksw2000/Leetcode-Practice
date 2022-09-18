@@ -18,6 +18,7 @@ https://leetcode.com/
 | 012 | [integer-to-roman](https://leetcode.com/problems/integer-to-roman) | [Go](integer-to-roman) |
 | 013 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer) |[Go](./roman-to-integer/roman-to-integer.go) |
 | 014 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) | [Go](./longest-common-prefix/longest-common-prefix.go)|
+| 015 | [3sum](https://leetcode.com/problems/3sum/) | [Go](./3sum/3sum.go), [JS](./3sum/3sum.js) |
 | 016 | [3sum-closest](https://leetcode.com/problems/3sum-closest/) | [Go](./3sum-closest/3sum-closest.go) |
 | 018  | [4sum](https://leetcode.com/problems/4sum/)                  | [Go](./4Sum/4Sum.go)                                         |
 | 037 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | [Go](./sudoku-solver/sudoku-solver.go) |

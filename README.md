@@ -22,6 +22,7 @@ https://leetcode.com/
 | 018  | [4sum](https://leetcode.com/problems/4sum/)                  | [Go](./4Sum/4Sum.go)                                         |
 | 037 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | [Go](./sudoku-solver/sudoku-solver.go) |
 | 038  | [count-and-say](https://leetcode.com/problems/count-and-say/) | [Go](./count-and-say/count-and-say.go)                       |
+| 041 | [first-missing-positive](https://leetcode.com/problems/first-missing-positive/) | [Go](./first-missing-positive/first-missing-positive.go) |
 | 061 |[rotate-list](https://leetcode.com/problems/rotate-list/) | [Go](./rotate-list/rotate-list.go)|
 | 071 | [simplify-path](https://leetcode.com/problems/simplify-path/) | [Go](./simplify-path/simplify-path.go) |
 | 082 |[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](./remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.go)|
@@ -34,3 +35,4 @@ https://leetcode.com/
 | 413 |[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/) | [Go](./arithmetic-slices/arithmetic-slices.go)|
 | 948 | [bag-of-tokens](https://leetcode.com/problems/bag-of-tokens/) | [Go](./bag-of-tokens/bag-of-tokens.go)|
 |1337| [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Go](./the-k-weakest-rows-in-a-matrix/the-k-weakest-rows-in-a-matrix.go) |
+|1680| [concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Go](./concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.go), [C](./concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.c)|

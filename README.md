@@ -29,6 +29,8 @@ https://leetcode.com/
 | 061 |[rotate-list](https://leetcode.com/problems/rotate-list/) | [Go](./rotate-list/rotate-list.go)|
 | 071 | [simplify-path](https://leetcode.com/problems/simplify-path/) | [Go](./simplify-path/simplify-path.go) |
 | 082 |[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](./remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.go)|
+| 091 | [decode-ways](https://leetcode.com/problems/decode-ways/) |[Go](./decode-ways/decode-ways.go) |
+| 112 | [path-sum](https://leetcode.com/problems/path-sum/) | [Go](./path-sum/path-sum.go) |
 | 138 | [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Go](./copy-list-with-random-pointer/copy-list-with-random-pointer.go) |
 | 141 |[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./linked-list-cycle/linked-list-cycle.go) |
 | 148  | [sort-list](https://leetcode.com/problems/sort-list/)        | [Go](./sort-list/sort-list.go)                               |

@@ -42,7 +42,8 @@ https://leetcode.com/
 | 392 | [is-subsequence](https://leetcode.com/problems/is-subsequence/)|[Go](./is-subsequence/is-subsequence.go)|
 | 413 |[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/) | [Go](./arithmetic-slices/arithmetic-slices.go)|
 | 622 | [design-circular-queue](https://leetcode.com/problems/design-circular-queue/)|[Go](./design-circular-queue/design-circular-queue.go)|
-| 623|[add-one-row-to-tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Go](/add-one-row-to-tree/add-one-row-to-tree.go) |
+| 623|[add-one-row-to-tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Go](./add-one-row-to-tree/add-one-row-to-tree.go) |
+| 658 | [find-k-closest-elements](https://leetcode.com/problems/find-k-closest-elements) | [Go](./find-k-closest-elements/find-k-closest-elements.go) |
 | 948 | [bag-of-tokens](https://leetcode.com/problems/bag-of-tokens/) | [Go](./bag-of-tokens/bag-of-tokens.go)|
 | 981 | [time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store/)|[Go](./time-based-key-value-store/time-based-key-value-store.go) |
 | 990 | [satisfiability-of-equality-equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Go](./satisfiability-of-equality-equations/satisfiability-of-equality-equations.go) |

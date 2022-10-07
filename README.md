@@ -24,6 +24,7 @@ https://leetcode.com/
 | 018  | [4sum](https://leetcode.com/problems/4sum/)                  | [Go](./4Sum/4Sum.go)                                         |
 | 037 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | [Go](./sudoku-solver/sudoku-solver.go) |
 | 038  | [count-and-say](https://leetcode.com/problems/count-and-say/) | [Go](./count-and-say/count-and-say.go)                       |
+| 040 | [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/) | [Go](./combination-sum-ii/combination-sum-ii.go) |
 | 041 | [first-missing-positive](https://leetcode.com/problems/first-missing-positive/) | [Go](./first-missing-positive/first-missing-positive.go) |
 | 045|[jump-game-ii](https://leetcode.com/problems/jump-game-ii/) |[Go](./jump-game-ii/jump-game-ii.go) |
 | 055 |  [jump-game](https://leetcode.com/problems/jump-game/) | [Go](./jump-game/jump-game.go)|
@@ -48,3 +49,4 @@ https://leetcode.com/
 |1337| [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Go](./the-k-weakest-rows-in-a-matrix/the-k-weakest-rows-in-a-matrix.go) |
 | 1578 | [minimum-time-to-make-rope-colorful]( https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Go](./minimum-time-to-make-rope-colorful/minimum-time-to-make-rope-colorful.go)|
 |1680| [concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Go](./concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.go), [C](./concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.c)|
+

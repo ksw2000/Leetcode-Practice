@@ -33,6 +33,7 @@ https://leetcode.com/
 | 059 | [spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/) | [Go](https://leetcode.com/problems/spiral-matrix-ii/) |
 | 061 |[rotate-list](https://leetcode.com/problems/rotate-list/) | [Go](./rotate-list/rotate-list.go)|
 | 071 | [simplify-path](https://leetcode.com/problems/simplify-path/) | [Go](./simplify-path/simplify-path.go) |
+| 073 | [set-matrix-zeros](https://leetocde.com/problems/set-matrix-zeros/) | [Go](./set-matrix-zeros/set-matrix-zeros.go) |
 | 082 |[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](./remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.go)|
 | 091 | [decode-ways](https://leetcode.com/problems/decode-ways/) |[Go](./decode-ways/decode-ways.go) |
 | 112 | [path-sum](https://leetcode.com/problems/path-sum/) | [Go](./path-sum/path-sum.go) |

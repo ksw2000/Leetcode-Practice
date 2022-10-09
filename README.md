@@ -29,6 +29,7 @@ https://leetcode.com/
 | 040 | [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/) | [Go](./combination-sum-ii/combination-sum-ii.go) |
 | 041 | [first-missing-positive](https://leetcode.com/problems/first-missing-positive/) | [Go](./first-missing-positive/first-missing-positive.go) |
 | 045|[jump-game-ii](https://leetcode.com/problems/jump-game-ii/) |[Go](./jump-game-ii/jump-game-ii.go) |
+| 049 | [group-anagrams](https://leetcode.com/problems/group-anagrams/) | [Go](./group-anagrams/group-anagrams.go) |
 | 055 |  [jump-game](https://leetcode.com/problems/jump-game/) | [Go](./jump-game/jump-game.go)|
 | 059 | [spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/) | [Go](https://leetcode.com/problems/spiral-matrix-ii/) |
 | 061 |[rotate-list](https://leetcode.com/problems/rotate-list/) | [Go](./rotate-list/rotate-list.go)|

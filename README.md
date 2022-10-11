@@ -53,6 +53,7 @@ https://leetcode.com/
 | 948 | [bag-of-tokens](https://leetcode.com/problems/bag-of-tokens/) | [Go](./bag-of-tokens/bag-of-tokens.go)|
 | 981 | [time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store/)|[Go](./time-based-key-value-store/time-based-key-value-store.go) |
 | 990 | [satisfiability-of-equality-equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Go](./satisfiability-of-equality-equations/satisfiability-of-equality-equations.go) |
+| 997| [find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/) |[Go](./find-the-town-judge/find-the-town-judge.go), [C](./find-the-town-judge/find-the-town-judge.c) |
 | 1328 | [break-a-palindrome](https://leetcode.com/problems/break-a-palindrome/) | [Go](./break-a-palindrome/break-a-palindrome.go)|
 |1337| [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Go](./the-k-weakest-rows-in-a-matrix/the-k-weakest-rows-in-a-matrix.go) |
 | 1578 | [minimum-time-to-make-rope-colorful]( https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Go](./minimum-time-to-make-rope-colorful/minimum-time-to-make-rope-colorful.go)|

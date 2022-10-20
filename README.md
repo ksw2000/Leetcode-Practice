@@ -22,8 +22,8 @@ https://leetcode.com/
 | 016 | [3sum-closest](https://leetcode.com/problems/3sum-closest/) | [Go](./3sum-closest/3sum-closest.go) |
 | 017 | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Go](./letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.go) |
 | 018  | [4sum](https://leetcode.com/problems/4sum/)                  | [Go](./4Sum/4Sum.go)                                         |
-| 019 |[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C](./remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.c) |
-| 020 | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | [C](./valid-parentheses/valid-parentheses.c) |
+| 019 |[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Go](./remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.go), [C](./remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.c) |
+| 020 | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | [Go](./valid-parentheses/valid-parentheses.go), [C](./valid-parentheses/valid-parentheses.c) |
 | 021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[Go](./merge-two-sorted-lists/merge-two-sorted-lists.go) |
 | 022| [generate-parentheses](https://leetcode.com/problems/generate-parentheses/) |[Go](./generate-parentheses/generate-parentheses.go) |
 | 023 | [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[Go](./merge-k-sorted-lists/merge-k-sorted-lists.go) |

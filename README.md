@@ -27,6 +27,7 @@ https://leetcode.com/
 | 021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[Go](./merge-two-sorted-lists/merge-two-sorted-lists.go) |
 | 022| [generate-parentheses](https://leetcode.com/problems/generate-parentheses/) |[Go](./generate-parentheses/generate-parentheses.go) |
 | 023 | [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[Go](./merge-k-sorted-lists/merge-k-sorted-lists.go) |
+| 024|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Go](./swap-nodes-in-pairs/swap-nodes-in-pairs.go), [C](./swap-nodes-in-pairs/swap-nodes-in-pairs.c)|
 | 037 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | [Go](./sudoku-solver/sudoku-solver.go) |
 | 038  | [count-and-say](https://leetcode.com/problems/count-and-say/) | [Go](./count-and-say/count-and-say.go)                       |
 | 040 | [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/) | [Go](./combination-sum-ii/combination-sum-ii.go) |

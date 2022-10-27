@@ -44,6 +44,7 @@ https://leetcode.com/
 | 073 | [set-matrix-zeros](https://leetocde.com/problems/set-matrix-zeros/) | [Go](./set-matrix-zeros/set-matrix-zeros.go) |
 | 082 |[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](./remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.go)|
 | 083| [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Go](./remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.go)|
+| 086|[partition-list](https://leetcode.com/problems/partition-list/) |[Go](./partition-list/partition-list.go)|
 | 091 | [decode-ways](https://leetcode.com/problems/decode-ways/) |[Go](./decode-ways/decode-ways.go) |
 | 112 | [path-sum](https://leetcode.com/problems/path-sum/) | [Go](./path-sum/path-sum.go) |
 | 138 | [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Go](./copy-list-with-random-pointer/copy-list-with-random-pointer.go) |

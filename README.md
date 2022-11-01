@@ -47,6 +47,8 @@ https://leetcode.com/
 | 086|[partition-list](https://leetcode.com/problems/partition-list/) |[Go](./partition-list/partition-list.go)|
 | 091 | [decode-ways](https://leetcode.com/problems/decode-ways/) |[Go](./decode-ways/decode-ways.go) |
 | 112 | [path-sum](https://leetcode.com/problems/path-sum/) | [Go](./path-sum/path-sum.go) |
+| 118 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/) | [C](./pascals-triangle/pascals-triangle.c) |
+| 119 | [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/) | [C](./pascals-triangle-ii/pascals-triangle-ii.c)
 | 138 | [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Go](./copy-list-with-random-pointer/copy-list-with-random-pointer.go) |
 | 141 |[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./linked-list-cycle/linked-list-cycle.go) |
 |  143 | [gas-station](https://leetcode.com/problems/gas-station/) | [Go](./gas-station/gas-station.go) |

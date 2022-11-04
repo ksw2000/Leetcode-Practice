@@ -29,6 +29,9 @@ https://leetcode.com/
 | 023 | [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[Go](./merge-k-sorted-lists/merge-k-sorted-lists.go) |
 | 024|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Go](./swap-nodes-in-pairs/swap-nodes-in-pairs.go), [C](./swap-nodes-in-pairs/swap-nodes-in-pairs.c)|
 | 026 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.go), [C](./remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)|
+| 028 | [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C](./find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.c)|
+| 029 | [divide-two-integers](https://leetcode.com/problems/divide-two-integers/) | [Go](./divide-two-integers/divide-two-integers.go)|
+| 031 | [next-permutation](https://leetcode.com/problems/next-permutation/) | [Go](./next-permutation/next-permutation.go) |
 | 037 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | [Go](./sudoku-solver/sudoku-solver.go) |
 | 038  | [count-and-say](https://leetcode.com/problems/count-and-say/) | [Go](./count-and-say/count-and-say.go)                       |
 | 040 | [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/) | [Go](./combination-sum-ii/combination-sum-ii.go) |

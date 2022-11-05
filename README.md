@@ -34,6 +34,7 @@ https://leetcode.com/
 | 031 | [next-permutation](https://leetcode.com/problems/next-permutation/) | [Go](./next-permutation/next-permutation.go) |
 | 037 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | [Go](./sudoku-solver/sudoku-solver.go) |
 | 038  | [count-and-say](https://leetcode.com/problems/count-and-say/) | [Go](./count-and-say/count-and-say.go)                       |
+| 039 | [combination-sum](https://leetcode.com/problems/combination-sum/) | [Go](./combination-sum/combination-sum.go) |
 | 040 | [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/) | [Go](./combination-sum-ii/combination-sum-ii.go) |
 | 041 | [first-missing-positive](https://leetcode.com/problems/first-missing-positive/) | [Go](./first-missing-positive/first-missing-positive.go) |
 | 044|[wildcard-matching](https://leetcode.com/problems/wildcard-matching/) |[Go](./wildcard-matching/wildcard-matching.go) |
@@ -50,6 +51,10 @@ https://leetcode.com/
 | 083| [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Go](./remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.go)|
 | 086|[partition-list](https://leetcode.com/problems/partition-list/) |[Go](./partition-list/partition-list.go)|
 | 091 | [decode-ways](https://leetcode.com/problems/decode-ways/) |[Go](./decode-ways/decode-ways.go) |
+| 101 | [symmetric-tree](https://leetcode.com/problems/symmetric-tree/) | [Go](./symmetric-tree/symmetric-tree.go) |
+| 102 | [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](./binary-tree-level-order-traversal/binary-tree-level-order-traversal.c) |
+| 105 | [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C](./construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.c) |
+| 106 | [construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C](./construct-binary-tree-from-inorder-and-postorder-traversal/construct-binary-tree-from-inorder-and-postorder-traversal.c) |
 | 109 | [convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C](./convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.c)
 | 112 | [path-sum](https://leetcode.com/problems/path-sum/) | [Go](./path-sum/path-sum.go) |
 | 118 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/) | [C](./pascals-triangle/pascals-triangle.c) |

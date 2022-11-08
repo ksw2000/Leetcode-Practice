@@ -40,7 +40,8 @@ https://leetcode.com/
 | 044|[wildcard-matching](https://leetcode.com/problems/wildcard-matching/) |[Go](./wildcard-matching/wildcard-matching.go) |
 | 045|[jump-game-ii](https://leetcode.com/problems/jump-game-ii/) |[Go](./jump-game-ii/jump-game-ii.go) |
 | 049 | [group-anagrams](https://leetcode.com/problems/group-anagrams/) | [Go](./group-anagrams/group-anagrams.go) |
-| 055 |  [jump-game](https://leetcode.com/problems/jump-game/) | [Go](./jump-game/jump-game.go)|
+| 053 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [Go](./maximum-subarray/maximum-subarray.go) |
+| 055 | [jump-game](https://leetcode.com/problems/jump-game/) | [Go](./jump-game/jump-game.go)|
 | 059 | [spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/) | [Go](https://leetcode.com/problems/spiral-matrix-ii/) |
 | 061 |[rotate-list](https://leetcode.com/problems/rotate-list/) | [Go](./rotate-list/rotate-list.go)|
 | 064|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/) | [Go](./minimum-path-sum/minimum-path-sum.go) |

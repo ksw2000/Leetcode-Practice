@@ -57,6 +57,7 @@ https://leetcode.com/
 | 105 | [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C](./construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.c) |
 | 106 | [construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C](./construct-binary-tree-from-inorder-and-postorder-traversal/construct-binary-tree-from-inorder-and-postorder-traversal.c) |
 | 109 | [convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C](./convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.c)
+| 111 | [minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C](./minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.c) |
 | 112 | [path-sum](https://leetcode.com/problems/path-sum/) | [Go](./path-sum/path-sum.go) |
 | 118 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/) | [C](./pascals-triangle/pascals-triangle.c) |
 | 119 | [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/) | [C](./pascals-triangle-ii/pascals-triangle-ii.c)

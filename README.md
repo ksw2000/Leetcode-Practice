@@ -4,7 +4,7 @@ https://leetcode.com/
 
 |  #   | Question                                                     |                                                              |
 | :--: | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| 001  | [two-sum](https://leetcode.com/problems/two-sum)             | [Go](./two-sum/two-sum.go), [C](./two-sum/two-sum.c), [JS](./two-sum/two-sum.js), [PHP](./two-sum/two-sum.php), [Rust](./two-sum/two-sum.rs), [Java](./two-sum/two-sum.java) |
+| 001  | [two-sum](https://leetcode.com/problems/two-sum)             | [Go](./two-sum/two-sum.go), [C](./two-sum/two-sum.c), [JS](./two-sum/two-sum.js), [PHP](./two-sum/two-sum.php), [Rust](./two-sum/two-sum.rs), [Java](./two-sum/TwoSum.java) |
 | 002  | [add-two-numbers](https://leetcode.com/problems/add-two-numbers) | [Go](./add-two-numbers/add-two-numbers.go), [C](./add-two-numbers/add-two-numbers.c), [JS](./add-two-numbers/add-two-numbers.js) |
 | 003  | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Go](./longest-substring-without-repeating-characters.go)    |
 | 004  | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Go](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.go) |
@@ -40,7 +40,7 @@ https://leetcode.com/
 | 044|[wildcard-matching](https://leetcode.com/problems/wildcard-matching/) |[Go](./wildcard-matching/wildcard-matching.go) |
 | 045|[jump-game-ii](https://leetcode.com/problems/jump-game-ii/) |[Go](./jump-game-ii/jump-game-ii.go) |
 | 049 | [group-anagrams](https://leetcode.com/problems/group-anagrams/) | [Go](./group-anagrams/group-anagrams.go) |
-| 053 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [Go](./maximum-subarray/maximum-subarray.go) |
+| 053 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [Go](./maximum-subarray/maximum-subarray.go), [C](./maximum-subarray/maximum-subarray.c) |
 | 055 | [jump-game](https://leetcode.com/problems/jump-game/) | [Go](./jump-game/jump-game.go)|
 | 059 | [spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/) | [Go](https://leetcode.com/problems/spiral-matrix-ii/) |
 | 061 |[rotate-list](https://leetcode.com/problems/rotate-list/) | [Go](./rotate-list/rotate-list.go)|

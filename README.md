@@ -38,6 +38,7 @@ https://leetcode.com/
 | 112 | [path-sum](https://leetcode.com/problems/path-sum/) | [Go](./path-sum/path-sum.go) |
 | 138 | [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Go](./copy-list-with-random-pointer/copy-list-with-random-pointer.go) |
 | 141 |[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./linked-list-cycle/linked-list-cycle.go) |
+|  143 | [gas-station](https://leetcode.com/problems/gas-station/) | [Go](./gas-station/gas-station.go) |
 | 144 |[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Go](./binary-tree-preorder-traversal/binary-tree-preorder-traversal.go) |
 | 148  | [sort-list](https://leetcode.com/problems/sort-list/)        | [Go](./sort-list/sort-list.go)                               |
 | 165 | [compare-version-numbers](https://leetcode.com/problems/compare-version-numbers/) | [Go](./compare-version-numbers/compare-version-numbers.go) |

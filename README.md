@@ -57,4 +57,5 @@ https://leetcode.com/
 |1337| [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Go](./the-k-weakest-rows-in-a-matrix/the-k-weakest-rows-in-a-matrix.go) |
 | 1578 | [minimum-time-to-make-rope-colorful]( https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Go](./minimum-time-to-make-rope-colorful/minimum-time-to-make-rope-colorful.go)|
 |1680| [concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Go](./concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.go), [C](./concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.c)|
+| 2246|[longest-path-with-different-adjacent-characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)|[Go](./longest-path-with-different-adjacent-characters/longest-path-with-different-adjacent-characters.go)|
 

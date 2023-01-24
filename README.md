@@ -48,6 +48,7 @@ https://leetcode.com/
 | 338  | [counting-bits](https://leetcode.com/problems/counting-bits/) | [Go](./counting-bits/counting-bits.go), [C](./counting-bits/counting-bits.c) |
 | 392 | [is-subsequence](https://leetcode.com/problems/is-subsequence/)|[Go](./is-subsequence/is-subsequence.go)|
 | 413 |[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/) | [Go](./arithmetic-slices/arithmetic-slices.go)|
+| 542 | [01-matrix](https://leetcode.com/problems/01-matrix/) |[Go](./01-matrix/01-matrix.go)|
 | 622 | [design-circular-queue](https://leetcode.com/problems/design-circular-queue/)|[Go](./design-circular-queue/design-circular-queue.go)|
 | 623|[add-one-row-to-tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Go](./add-one-row-to-tree/add-one-row-to-tree.go) |
 | 658 | [find-k-closest-elements](https://leetcode.com/problems/find-k-closest-elements) | [Go](./find-k-closest-elements/find-k-closest-elements.go) |

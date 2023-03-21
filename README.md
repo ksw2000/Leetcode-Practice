@@ -59,6 +59,7 @@ https://leetcode.com/
 | 109 | [convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C](./convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.c)
 | 111 | [minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C](./minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.c) |
 | 112 | [path-sum](https://leetcode.com/problems/path-sum/) | [Go](./path-sum/path-sum.go) |
+| 115 | [distinct-subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C](./distinct-subsequences/distinct-subsequences.c) |
 | 118 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/) | [C](./pascals-triangle/pascals-triangle.c) |
 | 119 | [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/) | [C](./pascals-triangle-ii/pascals-triangle-ii.c)
 | 138 | [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Go](./copy-list-with-random-pointer/copy-list-with-random-pointer.go) |

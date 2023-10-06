@@ -6,7 +6,7 @@ https://leetcode.com/
 | :--: | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | 001  | [two-sum](https://leetcode.com/problems/two-sum)             | [Go](./two-sum/two-sum.go), [C](./two-sum/two-sum.c), [JS](./two-sum/two-sum.js), [PHP](./two-sum/two-sum.php), [Rust](./two-sum/two-sum.rs), [Java](./two-sum/TwoSum.java) |
 | 002  | [add-two-numbers](https://leetcode.com/problems/add-two-numbers) | [Go](./add-two-numbers/add-two-numbers.go), [C](./add-two-numbers/add-two-numbers.c), [JS](./add-two-numbers/add-two-numbers.js) |
-| 003  | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Go](./longest-substring-without-repeating-characters.go)    |
+| 003  | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Go](./longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.go), [C](./longest-substring-without-repeating-characterslongest-substring-without-repeating-characters.c) |
 | 004  | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Go](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.go) |
 | 005  | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring) | [Go](./longest-palindromic-substring/longest-palindromic-substring.go) |
 | 006  | [zigzag-conversion](https://leetcode.com/problems/zigzag-conversion) | [Go](./zigzag-conversion/zigzag-conversion.go)               |
@@ -28,9 +28,12 @@ https://leetcode.com/
 | 022| [generate-parentheses](https://leetcode.com/problems/generate-parentheses/) |[Go](./generate-parentheses/generate-parentheses.go) |
 | 023 | [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[Go](./merge-k-sorted-lists/merge-k-sorted-lists.go) |
 | 024|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Go](./swap-nodes-in-pairs/swap-nodes-in-pairs.go), [C](./swap-nodes-in-pairs/swap-nodes-in-pairs.c)|
+| 025 |[reverse-nodes-in-k-groups](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Go](./reverse-nodes-in-k-groups/reverse-nodes-in-k-groups.go)|
 | 026 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.go), [C](./remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)|
-| 028 | [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C](./find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.c)|
+| 027 | [remove-element](https://leetcode.com/problems/remove-element/) | [Go](./remove-element/remove-element.go), [C](./remove-element/remove-element.c), [JS](./remove-element/remove-element.js) |
+| 028 | [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Go](./find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.go), [C](./find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.c), [JS](./find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.js) |
 | 029 | [divide-two-integers](https://leetcode.com/problems/divide-two-integers/) | [Go](./divide-two-integers/divide-two-integers.go)|
+| 030 | [substring-with-concatenation-of-all-words]() | [Go](./substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.go) |
 | 031 | [next-permutation](https://leetcode.com/problems/next-permutation/) | [Go](./next-permutation/next-permutation.go) |
 | 037 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | [Go](./sudoku-solver/sudoku-solver.go) |
 | 038  | [count-and-say](https://leetcode.com/problems/count-and-say/) | [Go](./count-and-say/count-and-say.go)                       |
@@ -43,6 +46,7 @@ https://leetcode.com/
 | 053 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [Go](./maximum-subarray/maximum-subarray.go), [C](./maximum-subarray/maximum-subarray.c) |
 | 055 | [jump-game](https://leetcode.com/problems/jump-game/) | [Go](./jump-game/jump-game.go)|
 | 059 | [spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/) | [Go](https://leetcode.com/problems/spiral-matrix-ii/) |
+| 060 | [permutation-sequence](https://leetcode.com/problems/permutation-sequence/) | [Go](./permutation-sequence/permutation-sequence.go) |
 | 061 |[rotate-list](https://leetcode.com/problems/rotate-list/) | [Go](./rotate-list/rotate-list.go)|
 | 064|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/) | [Go](./minimum-path-sum/minimum-path-sum.go) |
 | 070| [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) | [Go](./climbing-stairs/climbing-stairs.go) |
@@ -56,12 +60,12 @@ https://leetcode.com/
 | 102 | [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](./binary-tree-level-order-traversal/binary-tree-level-order-traversal.c) |
 | 105 | [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C](./construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.c) |
 | 106 | [construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C](./construct-binary-tree-from-inorder-and-postorder-traversal/construct-binary-tree-from-inorder-and-postorder-traversal.c) |
-| 109 | [convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C](./convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.c)
+| 109 | [convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C](./convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.c)|
 | 111 | [minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C](./minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.c) |
 | 112 | [path-sum](https://leetcode.com/problems/path-sum/) | [Go](./path-sum/path-sum.go) |
 | 115 | [distinct-subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C](./distinct-subsequences/distinct-subsequences.c) |
 | 118 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/) | [C](./pascals-triangle/pascals-triangle.c) |
-| 119 | [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/) | [C](./pascals-triangle-ii/pascals-triangle-ii.c)
+| 119 | [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/) | [C](./pascals-triangle-ii/pascals-triangle-ii.c)|
 | 138 | [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Go](./copy-list-with-random-pointer/copy-list-with-random-pointer.go) |
 | 141 |[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./linked-list-cycle/linked-list-cycle.go) |
 |  143 | [gas-station](https://leetcode.com/problems/gas-station/) | [Go](./gas-station/gas-station.go) |
@@ -70,6 +74,7 @@ https://leetcode.com/
 | 148  | [sort-list](https://leetcode.com/problems/sort-list/)        | [Go](./sort-list/sort-list.go)                               |
 | 165 | [compare-version-numbers](https://leetcode.com/problems/compare-version-numbers/) | [Go](./compare-version-numbers/compare-version-numbers.go) |
 | 338  | [counting-bits](https://leetcode.com/problems/counting-bits/) | [Go](./counting-bits/counting-bits.go), [C](./counting-bits/counting-bits.c) |
+| 343 | [integer-break](https://leetcode.com/problems/integer-break/) | [Go](./integer-break/integer-break.go) |
 | 392 | [is-subsequence](https://leetcode.com/problems/is-subsequence/)|[Go](./is-subsequence/is-subsequence.go)|
 | 413 |[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/) | [Go](./arithmetic-slices/arithmetic-slices.go)|
 | 542 | [01-matrix](https://leetcode.com/problems/01-matrix/) |[Go](./01-matrix/01-matrix.go)|

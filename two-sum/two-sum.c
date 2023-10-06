@@ -1,96 +1,68 @@
 // https://leetcode.com/problems/two-sum/
-// 4 ms 6.8 MB
-#include<stdio.h>
-#include<stdlib.h>
+// 8 ms 6.9 MB
+#include <stdio.h>
+#include <stdlib.h>
 
-typedef struct hashmap *HashMap;
-typedef struct entry *Entry;
-typedef void (*Push)(HashMap, int, int);
-typedef Entry (*Get)(HashMap, int);
-typedef int (*HashCode)(HashMap, int);
-
-struct entry{
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+struct hashEl {
     int key;
     int val;
-    Entry next;
+    struct hashEl* next;
 };
 
-struct hashmap{
+struct hash {
+    struct hashEl** list;
     int cap;
-    Entry* list;
-    Push push;
-    Get get;
-    HashCode hashcode;
 };
 
-void funcPush(HashMap , int, int);
-Entry funcGet(HashMap , int);
-int funcHashCode(HashMap , int);
-
-HashMap __HashMap__(int initCap){
-    HashMap new = malloc(sizeof(*new));
-    new->cap = initCap;
-    new->list = calloc(initCap, sizeof(Entry));
-    new->push = funcPush;
-    new->get = funcGet;
-    new->hashcode = funcHashCode;
-    return new;
+struct hash* Hash(int cap) {
+    struct hash* h = malloc(sizeof *h);
+    h->list = calloc(cap, sizeof(struct hashEl*));
+    h->cap = cap;
+    return h;
 }
 
-void funcPush(HashMap self, int k, int v){
-    int index = self->hashcode(self, k);
-    Entry e = malloc(sizeof(*e));
-    e->key  = k;
-    e->val  = v;
-    e->next = self->list[index];
-    self->list[index] = e;
+unsigned int hashcode(struct hash* h, int key) {
+    return key & (h->cap - 1);
 }
 
-Entry funcGet(HashMap self, int k){
-    int index = self->hashcode(self, k);
-    Entry current;
-    for(current = self->list[index]; current; current = current->next){
-        if(current->key == k){
-            return current;
+void set(struct hash* h, int key, int val) {
+    int code = hashcode(h, key);
+    struct hashEl* el = malloc(sizeof *el);
+    el->key = key;
+    el->val = val;
+    el->next = h->list[code];
+    h->list[code] = el;
+}
+
+int* get(struct hash* h, int key) {
+    int code = hashcode(h, key);
+    struct hashEl* current = h->list[code];
+    for (; current; current = current->next) {
+        if (current->key == key) {
+            return &(current->val);
         }
     }
     return NULL;
 }
 
-int funcHashCode(HashMap self, int k){
-    return (k & 0x7fffffff) % self->cap;
-}
-
-int* twoSum(int* nums, int numsSize, int target, int* returnSize){
-    HashMap map = __HashMap__(numsSize);
-    Entry tmp = NULL;
+int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
+    struct hash* h = Hash(256);
     int i;
-
-    for(i=0; i<numsSize; i++){
-        if(map->get(map, target - nums[i])){
-            int* ret = malloc(2*sizeof(int));
-            ret[0] = map->get(map, target - nums[i])->val;
-            ret[1] = i;
+    int* j;
+    int* ans = malloc(sizeof(int) * 2);
+    for (i = 0; i < numsSize; i++) {
+        j = get(h, target - nums[i]);
+        if (j) {
+            ans[0] = *j;
+            ans[1] = i;
             *returnSize = 2;
-            return ret;
+            return ans;
         }
-        map->push(map, nums[i], i);
+        set(h, nums[i], i);
     }
     *returnSize = 0;
     return NULL;
-}
-
-int main(){
-    int testcase[] = {5, 75, 25};
-    int returnSize = 0;
-
-    int* answer = twoSum(testcase, 3, 100, &returnSize);
-
-    int i;
-    for(i=0; i<returnSize; i++){
-        printf("%d ",answer[i]);
-    }
-
-    printf("\n");
-    return 0;
 }

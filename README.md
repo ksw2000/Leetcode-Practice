@@ -35,13 +35,23 @@ https://leetcode.com/
 | 029 | [divide-two-integers](https://leetcode.com/problems/divide-two-integers/) | [Go](./divide-two-integers/divide-two-integers.go)|
 | 030 | [substring-with-concatenation-of-all-words]() | [Go](./substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.go) |
 | 031 | [next-permutation](https://leetcode.com/problems/next-permutation/) | [Go](./next-permutation/next-permutation.go) |
+| 032 | [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Go](./longest-valid-parentheses/longest-valid-parentheses.go) |
+|  |  |  |
+| 034 | [find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Go](./find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.go) |
+|  |  |  |
+|  |  |  |
 | 037 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | [Go](./sudoku-solver/sudoku-solver.go) |
 | 038  | [count-and-say](https://leetcode.com/problems/count-and-say/) | [Go](./count-and-say/count-and-say.go)                       |
 | 039 | [combination-sum](https://leetcode.com/problems/combination-sum/) | [Go](./combination-sum/combination-sum.go) |
 | 040 | [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/) | [Go](./combination-sum-ii/combination-sum-ii.go) |
 | 041 | [first-missing-positive](https://leetcode.com/problems/first-missing-positive/) | [Go](./first-missing-positive/first-missing-positive.go) |
+| 042 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) | [Go](./trapping-rain-water/trapping-rain-water.go) |
+| 043 | [multiply-strings](https://leetcode.com/problems/multiply-strings/) | [Go](./multiply-strings/multiply-strings.go) |
 | 044|[wildcard-matching](https://leetcode.com/problems/wildcard-matching/) |[Go](./wildcard-matching/wildcard-matching.go) |
 | 045|[jump-game-ii](https://leetcode.com/problems/jump-game-ii/) |[Go](./jump-game-ii/jump-game-ii.go) |
+| | | |
+| | | |
+| | | |
 | 049 | [group-anagrams](https://leetcode.com/problems/group-anagrams/) | [Go](./group-anagrams/group-anagrams.go) |
 | 053 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [Go](./maximum-subarray/maximum-subarray.go), [C](./maximum-subarray/maximum-subarray.c) |
 | 055 | [jump-game](https://leetcode.com/problems/jump-game/) | [Go](./jump-game/jump-game.go)|
@@ -56,6 +66,9 @@ https://leetcode.com/
 | 083| [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Go](./remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.go)|
 | 086|[partition-list](https://leetcode.com/problems/partition-list/) |[Go](./partition-list/partition-list.go)|
 | 091 | [decode-ways](https://leetcode.com/problems/decode-ways/) |[Go](./decode-ways/decode-ways.go) |
+
+|  #   | Question                                                     |                                                              |
+| :--: | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | 101 | [symmetric-tree](https://leetcode.com/problems/symmetric-tree/) | [Go](./symmetric-tree/symmetric-tree.go) |
 | 102 | [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](./binary-tree-level-order-traversal/binary-tree-level-order-traversal.c) |
 | 105 | [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C](./construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.c) |
